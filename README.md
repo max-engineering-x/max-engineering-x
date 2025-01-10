@@ -1,16 +1,18 @@
-## Hi there 👋
+# HI, I'M MOHAMMED ALZAHRANI! 👋
 
-<!--
-**max-engineering-x/max-engineering-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 **Full Stack Software Engineer** passionate about building impactful web applications  
+🎓 **Studied Software Engineering** at the University of Jeddah  
+🌐 Exploring **React.js**, **Next.js**, and **Node.js** for full-stack development  
+📚 **Lifelong Learner** expanding my knowledge through tech and non-fiction books  
+🎥 Sharing my **tech journey** and learnings on GitHub and beyond  
+🌱 **Currently learning** advanced concepts in React.js with Next.js and backend development with Node.js
+
+---
+
+### 🚀 My GitHub Stats
+
+Check out my GitHub journey and stats below:
+
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=max-engineering-x&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
